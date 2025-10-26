@@ -1,5 +1,69 @@
-Here’s your ready-to-use version — just copy, paste, and push it as your README.md.
+# 🧠 100 JavaScript Mini Projects — Learning & Rebuild Collection
 
+Welcome to my **JavaScript Mini Projects Hub!** 👋  
+This repository is a **personal educational collection** of web projects built with **HTML, CSS, and JavaScript**.
+
+⚠️ **Important Notice**  
+I am **not the creator** of the base projects initially included here.  
+All code originates from **open‑source repositories** under permissive licenses (MIT and similar).  
+This collection exists **purely for learning, rebuilding, and improving my JavaScript skills**.  
+Every author retains full rights to their respective original work.
+
+---
+
+## 🎯 Purpose
+
+**This project hub helps me:**
+- Study structure and logic in different JavaScript projects.  
+- Practice rebuilding functionality from scratch.  
+- Learn DOM manipulation, APIs, animations, and UI techniques.  
+- Keep my learning organized and transparent for others to follow.
+
+All projects here are **educational references or personal remakes**, not redistributed products.
+
+---
+
+## 📁 Reference Projects (Original Sources)
+
+| # | Project | Original Repository | Main Author | License |
+|:---:|:--------------------|:------------------------------------------|:------------------|:--------|
+| 1 | [2048](./2048) | [Gabriele Cirulli – 2048](https://github.com/gabrielecirulli/2048) | Gabriele Cirulli | MIT |
+| 2 | [HTML5 Audio Visualizer](./HTML5_Audio_Visualizer) | [Wayou/HTML5_Audio_Visualizer](https://github.com/Wayou/HTML5_Audio_Visualizer) | Wayou | MIT |
+| 3 | [App Ideas Collection](./app-ideas) | [Florin Pop – App Ideas](https://github.com/florinpop17/app-ideas) | Florin Pop | MIT |
+| 4 | [Vanilla Tilt.js](./vanilla-tilt.js) | [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) | Rian Ariona | MIT |
+| 5 | [Vanilla Web Projects](./vanillawebprojects) | [Brad Traversy – Vanilla Web Projects](https://github.com/bradtraversy/vanillawebprojects) | Brad Traversy | MIT |
+
+Each project folder is included **for study and comparison only**.  
+If any creator requests removal, I’ll comply immediately.
+
+---
+
+## 🧩 My Own Rebuilds (Original Creations by me)
+
+This section will list the projects I personally build while recreating or extending ideas from the above sources.
+
+| # | Project | Description | Status | Live Demo |
+|:---:|:----------------|:-----------------------------|:---------:|:-----------|
+| 1 | Tip Calculator | A simple calculator to split bills and tips between people. Built from scratch as my first independent project. | ✅ Complete | [Demo](https://bakiroo.github.io/js-microprojects/tip-calculator) |
+| 2 | Clock Widget | Digital & analog clock using JS and CSS Transforms. | ⚙️ In progress | — |
+| 3 | To‑Do App | Interactive task manager built just with Vanilla JS (localStorage) | ⏳ Planned | — |
+| … | … | … | ⏳ | — |
+
+As I finish each rebuild, I’ll push it with my own code, comments, and commits clearly authored under **@bakiroo**.
+
+---
+
+## 🗃️ Repository Layout
+
+```plaintext
+js-microprojects/
+├── 2048/                    # Original 2048 project (by Gabriele Cirulli)
+├── HTML5_Audio_Visualizer/  # Audio visualizer (Wayou)
+├── app-ideas/               # Idea collection (Florin Pop)
+├── vanilla-tilt.js/         # Vanilla Tilt (Rian Ariona)
+├── vanillawebprojects/      # DOM Projects (Brad Traversy)
+├── tip-calculator/          # My own rebuild project ✅
+└── README.md
 
 # 🧠 100 JavaScript Mini Projects — Learning Collection
 
