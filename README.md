@@ -44,6 +44,16 @@ If any creator requests removal, I’ll comply immediately.
 
 ## 🗃️ Repository Layout
 
+## 🧭 Repository Structure
+js-microprojects/
+├── 2048/
+├── HTML5_Audio_Visualizer/
+├── app-ideas/
+├── vanilla-tilt.js/
+├── vanillawebprojects/
+└── README.md
+
+
 ```plaintext
 js-microprojects/
 ├── 2048/                    # Original 2048 project (by Gabriele Cirulli)
@@ -51,7 +61,6 @@ js-microprojects/
 ├── app-ideas/               # Idea collection (Florin Pop)
 ├── vanilla-tilt.js/         # Vanilla Tilt (Rian Ariona)
 ├── vanillawebprojects/      # DOM Projects (Brad Traversy)
-├── tip-calculator/          # My own rebuild project ✅
 └── README.md
 
 # 🧠 100 JavaScript Mini Projects — Learning Collection
@@ -95,14 +104,7 @@ Each folder name corresponds to the original public repository from the author(s
 
 ---
 
-## 🧭 Repository Structure
-js-microprojects/
-├── 2048/
-├── HTML5_Audio_Visualizer/
-├── app-ideas/
-├── vanilla-tilt.js/
-├── vanillawebprojects/
-└── README.md
+
 
 
 
