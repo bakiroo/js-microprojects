@@ -38,18 +38,7 @@ If any creator requests removal, I’ll comply immediately.
 
 ---
 
-## 🧩 My Own Rebuilds (Original Creations by me)
 
-This section will list the projects I personally build while recreating or extending ideas from the above sources.
-
-| # | Project | Description | Status | Live Demo |
-|:---:|:----------------|:-----------------------------|:---------:|:-----------|
-| 1 | Tip Calculator | A simple calculator to split bills and tips between people. Built from scratch as my first independent project. | ✅ Complete | [Demo](https://bakiroo.github.io/js-microprojects/tip-calculator) |
-| 2 | Clock Widget | Digital & analog clock using JS and CSS Transforms. | ⚙️ In progress | — |
-| 3 | To‑Do App | Interactive task manager built just with Vanilla JS (localStorage) | ⏳ Planned | — |
-| … | … | … | ⏳ | — |
-
-As I finish each rebuild, I’ll push it with my own code, comments, and commits clearly authored under **@bakiroo**.
 
 ---
 
