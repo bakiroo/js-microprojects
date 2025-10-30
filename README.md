@@ -54,7 +54,7 @@ js-microprojects/
 └── README.md
 
 
-```plaintext
+plaintext
 js-microprojects/
 ├── 2048/                    # Original 2048 project (by Gabriele Cirulli)
 ├── HTML5_Audio_Visualizer/  # Audio visualizer (Wayou)
@@ -130,7 +130,7 @@ This collection follows the **fair use and open‑source license respect** princ
 
 You can clone this repository freely to study how different JavaScript UI and game projects work:
 
-```bash
+bash
 git clone https://github.com/bakiroo/js-microprojects.git
 cd js-microprojects
 Then open any folder and launch its index.html in a browser to explore, modify, and learn.
